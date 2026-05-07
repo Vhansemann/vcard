@@ -9,6 +9,6 @@ EMAIL:victor.hansemann@gmail.com
 
 ADR;TYPE=HOME:;;6 Rue des Cigales;Pérols;;34470;France
 
-PHOTO;TYPE=PNG:https://raw.githubusercontent.com/Vhansemann/vcard/main/Zombie.png
+PHOTO:https://raw.githubusercontent.com/Vhansemann/vcard/main/Zombie.png
 
 END:VCARD
