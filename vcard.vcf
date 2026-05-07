@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Victor HANSEMANN
+N:HANSEMANN;Victor;;;
+TEL;TYPE=CELL:+33686573419
+EMAIL:victor.hansemann@gmail.com
+ORG:
+URL:
+ADR;TYPE=HOME:;;6 Rue des cigales;Perols;;34470;France
+PHOTO:https://raw.githubusercontent.com/Vhansemann/vcard/main/Zombie.JPG
+END:VCARD
